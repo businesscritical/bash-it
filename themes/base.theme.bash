@@ -344,7 +344,7 @@ function git_user_info {
 }
 
 function clock_char {
-  CLOCK_CHAR=${THEME_CLOCK_CHAR:-"⌚"}
+  CLOCK_CHAR=${THEME_CLOCK_CHAR:-"🌤 
   CLOCK_CHAR_COLOR=${THEME_CLOCK_CHAR_COLOR:-"$normal"}
   SHOW_CLOCK_CHAR=${THEME_SHOW_CLOCK_CHAR:-"true"}
 
